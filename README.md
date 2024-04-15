@@ -1,0 +1,1 @@
+# patern_recognition_practic_2603
